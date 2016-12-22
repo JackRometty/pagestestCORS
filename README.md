@@ -4,4 +4,4 @@
 
 to see what the server will look like, check out my [simple CORS server repo](https://github.com/JackRometty/CORSserver2).
 
-for specific CORS tutorials, check out [this helpful organisation](http://enable-cors.org/)
+for specific CORS tutorials, check out [this helpful organization](http://enable-cors.org/)
